@@ -43,4 +43,4 @@ Atualmente desenvolvendo aplicações com JavaScript no front-end e evoluindo no
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiago-lopes-machado-994b4a2b9/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagol6pes@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l6pes.dev@gmail.com)
